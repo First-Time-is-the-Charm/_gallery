@@ -11,5 +11,5 @@ categories:
   - graphics
   - image
 tags:
-  - Blender
+  - GIMP
 ---
