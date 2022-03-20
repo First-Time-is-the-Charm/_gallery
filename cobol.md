@@ -1,5 +1,5 @@
 ---
-author: NickLitharis
+author: NickLitharis.
 image_url: /images/COBOL.png
 title: Γλώσσα προγραμματισμού COBOL
 year: 1959
