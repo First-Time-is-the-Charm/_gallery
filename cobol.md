@@ -1,5 +1,5 @@
 ---
-author: NickLitharis.
+author: NickLitharis
 image_url: /images/cobol.jpg
 title: cobol
 year: 1959
