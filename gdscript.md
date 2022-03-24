@@ -17,7 +17,4 @@ categories:
 tags:
   - Godot
   - GDscript
-  - Python
-  - Lua
-  - Squirrel
 ---
